@@ -8,10 +8,7 @@ Software Engineer
 * ✉️  You can contact me at [joelorlndom@gmail.com.com](mailto:joelorlandom@gmail.com.com)
 * :office: I'm currently working at Bitam - Remote
 * :books: I studied computer systems engineering
-<a href="https://www.twitter.com/manzha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/manzha?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/manzha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/manzha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
